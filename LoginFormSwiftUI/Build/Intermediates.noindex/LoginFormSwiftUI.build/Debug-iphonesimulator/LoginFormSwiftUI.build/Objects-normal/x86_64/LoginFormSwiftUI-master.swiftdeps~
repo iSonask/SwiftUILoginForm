@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "ba6c301dcf98735a08c91c001a2c0ef9"
+build_time: [1571918136, 117895000]
+inputs:
+  "/Users/kevaldattani/Desktop/SwiftUI/LoginFormSwiftUI/LoginFormSwiftUI/AppDelegate.swift": [1571908895, 65441197]
+  "/Users/kevaldattani/Desktop/SwiftUI/LoginFormSwiftUI/LoginFormSwiftUI/SceneDelegate.swift": !dirty [1571918135, 945826974]
+  "/Users/kevaldattani/Desktop/SwiftUI/LoginFormSwiftUI/LoginFormSwiftUI/KeyboardObserver.swift": [9223372036, 854775807]
+  "/Users/kevaldattani/Desktop/SwiftUI/LoginFormSwiftUI/LoginFormSwiftUI/ContentView.swift": [1571911081, 135322695]
